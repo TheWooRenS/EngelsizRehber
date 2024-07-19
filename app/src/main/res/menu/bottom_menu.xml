@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/events"
+        android:title="Etkinlikler"
+        android:icon="@drawable/article_icon"/>
+
+    <item
+        android:id="@+id/park"
+        android:title="Park"
+        android:icon="@drawable/park_icon"/>
+
+    <item
+        android:id="@+id/forum"
+        android:title="Forum"
+        android:icon="@drawable/forum_icon"/>
+
+    <item
+        android:id="@+id/places"
+        android:title="Mekanlar"
+        android:icon="@drawable/places_icon"/>
+
+    <item
+        android:id="@+id/ai"
+        android:title="AI"
+        android:icon="@drawable/ai_icon"/>
+
+</menu>

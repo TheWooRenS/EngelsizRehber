@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655695275354",
+    "project_id": "engelsiz-r",
+    "storage_bucket": "engelsiz-r.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655695275354:android:13fe9b17da40e20aaa3f63",
+        "android_client_info": {
+          "package_name": "com.example.engelsizrehber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvrwK6PqyFi8aE1bkYQslvMQYuSEpUrfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

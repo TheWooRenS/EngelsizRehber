@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EngelsizRehber" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/darkgrey</item>
+        <item name="colorPrimaryVariant">@color/darkgrey</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="SWİTCH" >
+        <item name="colorControlActivated">@color/black</item>
+        <item name="colorSwitchThumbNormal">@color/black</item>
+        <item name="android:colorForeground">@color/black</item>
+    </style>
+    <style name="SCREEN" >
+        <item name="android:background">@color/black</item>
+    </style>
+    <style name="TEXT">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="ScreenBackground"><item name="android:background">@color/black</item></style>
+</resources>
